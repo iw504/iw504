@@ -20,8 +20,9 @@ ___
 
 # Summary Of Services 
 ___
+
 | Nō. | Services | Languages | Plan |
-|---|---|---|---|
+|----|----|----|----|
 | 01. | Web Development | Html, Python, JavaScript...| Paid |
 | 02. | App Development | C++, C#, Java, C, Kotlin... | Paid |
 | 03. | Software Tutorials | All languages | Free |
@@ -44,6 +45,7 @@ ___
 
 #### 3. Grëtta
 > Just like other ChatBots, Grëtta aids in research, generation, interaction, teaching, and roleplaying. Though it has some advanced features that differ it from most Artificial Intelligence Chatbots.
+
 **1. Program Generation**
 
 Instead of Providing Code, Grëtta simplifies programming by responding with files in case user asks for any programming guidance.
@@ -77,8 +79,9 @@ Uncensored mode is dangerous and unsafe for your device. Accessible on your own 
 
 **SUMMARY OF THE TOP DEVS AT my dev**
 ___
+
 | Member | Field | R'N |
-|-|-|-|
+|----|----|----|
 | Iᴄɪɪ Wʜɪᴛᴇ | Full Stack | ♛ |
 | Aɴᴏɴʏᴍᴏᴜs 🎭 | Cyber Security | ♞ |
 
